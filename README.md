@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BogdanModolea
 - 👀 I’m interested in Random Stuffs to Code
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me bogdanmodolea30@gmail.com
 
 <!---
