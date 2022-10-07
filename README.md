@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @BogdanModolea<br>👀 I’m interested in Random Stuffs to Code<br>🌱 I’m currently learning Computer Science<br>📫 How to reach me bogdanmodolea30@gmail.com
+👋 Hi, I’m @BogdanModolea<br>👀 I’m interested in Random Stuffs to Code<br>🌱 I’m currently learning Computer Science (Now Ruby and Java)<br>📫 How to reach me bogdanmodolea30@gmail.com
 
 
 ## 🌐 Socials:
